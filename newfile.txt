@@ -1,1 +1,3 @@
 Just another new file test, but plain text.
+
+More new stuff
